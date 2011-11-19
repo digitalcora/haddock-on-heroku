@@ -6,6 +6,14 @@ configure :production do
   use Rack::SslEnforcer
 end
 
+set :views, settings.root
+
 get '/' do
-  'It works!'
+  @password = begin
+    Haddock::Password.generate(16)
+  rescue Haddock::Password::NoWordsError
+    Haddock::Password.diction = '2of12.txt'
+    retry
+  end
+  erb :index
 end
