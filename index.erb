@@ -5,6 +5,15 @@
   </head>
   <body>
     <h1>Haddock on Heroku</h1>
-    <p><%= @password %></p>
+    <form method="get">
+      <label for="length">Length (8-31):</label>
+      <input name="length" type="number" value="<%= @length %>" />
+      <input type="submit" value="Generate" />
+    </form>
+    <ul id="passwords">
+      <% @passwords.each do |password| %>
+        <li><%= h password %></li>
+      <% end %>
+    </ul>
   </body>
 </html>
