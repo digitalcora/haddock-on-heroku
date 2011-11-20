@@ -16,10 +16,13 @@ end
 set :views, settings.root
 
 get '/' do
-  @length = params[:length].to_i
-  @length = 16 if @length <= 0
-  @length = 8 if @length < 8
-  @length = 31 if @length > 31
+  len = params[:length].to_i
+  @length = case
+    when len <= 0 then 16
+    when len <  8 then  8
+    when len > 31 then 31
+    else len
+  end
   @passwords = []
   10.times{ @passwords << Haddock::Password.generate(@length) }
   erb :index
