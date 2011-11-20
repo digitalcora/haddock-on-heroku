@@ -7,9 +7,25 @@
       html {
         text-align: center;
         font-family: sans-serif;
+        color: #111;
+        background-color: #def;
+      }
+      a, a:hover, a:active, a:visited {
+        color: #48a;
       }
       h1 {
-        margin: 20px 0;
+        color: #7ac;
+        margin: 20px 0 0 0;
+      }
+      #subhead {
+        color: #aac;
+        font-size: 80%;
+        margin: 0 0 20px 0;
+      }
+      #explain {
+        color: #aac;
+        font-size: 70%;
+        margin: 2px 0 0 0;
       }
       #passwords {
         padding: 0;
@@ -24,10 +40,13 @@
   </head>
   <body>
     <h1>Haddock on Heroku</h1>
+    <p id="subhead">Memorable passwords from <a href="http://www.stephencelis.com/2009/03/29/whats-the-password-haddock.html">Haddock</a> + <a href="http://www.wyrdplay.org/12dicts.html">12dicts</a><br>Site code by <a href="http://grantovich.net/">Grantovich</a> &ndash; Source on <a href="https://github.com/grantovich/Haddock-on-Heroku">GitHub</a></p>
     <form method="get">
-      <label for="length">Length (8-31):</label>
-      <input name="length" type="number" size="2" min="8" max="31" maxlength="2" value="<%= @length %>" />
+      <label for="input_length">Length:</label>
+      <input name="length" id="input_length" type="number"
+        size="2" min="8" max="31" maxlength="2" value="<%= @length %>" />
       <input type="submit" value="Generate" />
+      <p id="explain">Default 16, minimum 8, maximum 31</p>
     </form>
     <ul id="passwords">
       <% @passwords.each do |password| %>
