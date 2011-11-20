@@ -2,12 +2,31 @@
 <html lang="en-US">
   <head>
     <title>Haddock on Heroku</title>
+    <meta name="viewport" content="width=device-width, user-scalable=false" />
+    <style type="text/css">
+      html {
+        text-align: center;
+        font-family: sans-serif;
+      }
+      h1 {
+        margin: 20px 0;
+      }
+      #passwords {
+        padding: 0;
+        margin-top: 20px;
+        font-family: monospace;
+        list-style-type: none;
+      }
+      #passwords li {
+        margin-top: 12px;
+      }
+    </style>
   </head>
   <body>
     <h1>Haddock on Heroku</h1>
     <form method="get">
       <label for="length">Length (8-31):</label>
-      <input name="length" type="number" value="<%= @length %>" />
+      <input name="length" type="number" size="2" min="8" max="31" maxlength="2" value="<%= @length %>" />
       <input type="submit" value="Generate" />
     </form>
     <ul id="passwords">
