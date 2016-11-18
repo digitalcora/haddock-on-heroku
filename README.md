@@ -1,6 +1,9 @@
-Haddock on Heroku
-=================
+# Haddock on Heroku
 
-[Haddock](https://github.com/stephencelis/haddock) is a pretty sweet Ruby gem for generating memorable passwords. Haddock on Heroku is a super-simple web frontend for Haddock, using the "2of12" word list from the [12dicts project](http://www.wyrdplay.org/12dicts.html). Generate passwords from anywhere!
+[Haddock] is a library for generating memorable passwords. Haddock on Heroku is
+a simple web frontend for Haddock, using the "2of12" word list from [12dicts].
 
-==> **<https://haddock.herokuapp.com>** <==
+:point_right: **<https://haddock.herokuapp.com>**
+
+[Haddock]: https://github.com/stephencelis/haddock
+[12dicts]: http://wordlist.aspell.net/12dicts/
