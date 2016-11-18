@@ -2386,6 +2386,7 @@ aviatrix
 avid
 avidity
 avidly
+avionic
 avionics
 avitaminosis
 avocado
@@ -3794,7 +3795,6 @@ boatswain
 bob
 bobbin
 bobble
-bobby
 bobbysoxer
 bobcat
 bobolink
@@ -3890,7 +3890,6 @@ boniness
 bonito
 bonkers
 bonnet
-bonny
 bonsai
 bonus
 bony
@@ -4007,6 +4006,7 @@ bottleneck
 bottler
 bottom
 bottomless
+bottom-line
 bottoms
 botulism
 boudoir
@@ -5161,7 +5161,6 @@ carpet-bomb
 carpeting
 carpi
 carpool
-car-pooler
 carport
 carpus
 carrel
@@ -5279,7 +5278,6 @@ catbird
 catboat
 catcall
 catch
-catch-22
 catchall
 catch-as-catch-can
 catcher
@@ -6072,6 +6070,7 @@ city
 city-state
 civet
 civic
+civically
 civics
 civil
 civilian
@@ -7564,6 +7563,7 @@ coolness
 coon
 coonskin
 coop
+co-op
 cooper
 cooperage
 cooperate
@@ -9632,6 +9632,7 @@ diarist
 diarrhea
 diarrhoea
 diary
+diaspora
 diastase
 diastole
 diastolic
@@ -10490,6 +10491,7 @@ dona
 donate
 donation
 done
+dong
 dongle
 donkey
 donnybrook
@@ -12957,6 +12959,7 @@ feasibility
 feasible
 feasibly
 feast
+feaster
 feat
 feather
 featherbedding
@@ -14411,7 +14414,6 @@ furnished
 furnishings
 furniture
 furor
-furore
 furred
 furrier
 furriness
@@ -14441,7 +14443,6 @@ fuss
 fussbudget
 fussily
 fussiness
-fusspot
 fussy
 fustian
 fustiness
@@ -15180,7 +15181,6 @@ gong
 gonna
 gonorrhea
 gonorrheal
-gonorrhoea
 goo
 goober
 good
@@ -17041,6 +17041,7 @@ housemaid
 houseman
 housemother
 houseplant
+house-sat
 house-sit
 house-sitter
 housetop
@@ -17234,7 +17235,6 @@ hydration
 hydraulic
 hydraulically
 hydraulics
-hydro
 hydrocarbon
 hydrocephalus
 hydrocephaly
@@ -19446,6 +19446,7 @@ jetsam
 jet-setter
 jettison
 jetty
+jew
 jewel
 jeweled
 jeweler
@@ -19810,7 +19811,6 @@ kinsman
 kinswoman
 kiosk
 kipper
-kirk
 kirsch
 kismet
 kiss
@@ -19922,6 +19922,7 @@ kudos
 kudzu
 kumquat
 kvetch
+kvetcher
 l
 la
 lab
@@ -19970,7 +19971,6 @@ lacunae
 lacy
 lad
 ladder
-laddie
 lade
 laden
 la-di-da
@@ -20018,6 +20018,7 @@ lambkin
 lambskin
 lame
 lamebrain
+lamebrained
 lame-duck
 lamely
 lameness
@@ -20451,7 +20452,6 @@ letter-quality
 letters
 lettuce
 letup
-leukaemia
 leukemia
 leukemic
 leukocyte
@@ -20474,6 +20474,7 @@ levy
 lewd
 lewdly
 lewdness
+lexica
 lexical
 lexicographer
 lexicographic
@@ -20770,7 +20771,6 @@ litigious
 litigiousness
 litmus
 litotes
-litre
 litter
 litterbug
 litterer
@@ -20849,7 +20849,6 @@ locally
 locate
 location
 locator
-loch
 loci
 lock
 locker
@@ -20988,7 +20987,6 @@ lore
 lorgnette
 loris
 lorn
-lorry
 lose
 loser
 losing
@@ -21041,6 +21039,7 @@ lowboy
 lowbrow
 low-cal
 lowdown
+low-down
 low-end
 lower
 lowercase
@@ -22422,6 +22421,7 @@ minimal
 minimalism
 minimalist
 minimally
+minimization
 minimize
 minimum
 mining
@@ -23319,6 +23319,7 @@ mutterer
 muttering
 mutton
 muttonchops
+muttony
 mutual
 mutuality
 mutually
@@ -23407,7 +23408,6 @@ napless
 napoleon
 napped
 napper
-nappy
 narc
 narcissi
 narcissism
@@ -25722,7 +25722,6 @@ parallax
 parallel
 parallelism
 parallelogram
-paralyse
 paralyses
 paralysis
 paralytic
@@ -26485,7 +26484,6 @@ petrified
 petrify
 petrochemical
 petrodollars
-petrol
 petrolatum
 petroleum
 petrologist
@@ -29121,6 +29119,7 @@ rationally
 rations
 ratlike
 ratline
+rats
 rattan
 ratter
 rattle
@@ -29442,10 +29441,12 @@ recount
 recoup
 recourse
 recover
+re-cover
 recoverable
 recovery
 recreant
 recreate
+re-create
 recreation
 recreational
 recriminate
@@ -29459,6 +29460,7 @@ recruit
 recruiter
 recruitment
 recrystallize
+recta
 rectal
 rectally
 rectangle
@@ -29638,6 +29640,7 @@ reforest
 reforestation
 reforge
 reform
+re-form
 reformation
 reformative
 reformatory
@@ -30178,6 +30181,7 @@ residuals
 residue
 residuum
 resign
+re-sign
 resignation
 resigned
 resignedly
@@ -30983,6 +30987,7 @@ runabout
 runaround
 runaway
 rundown
+run-down
 rune
 rung
 runic
@@ -31032,6 +31037,7 @@ ruthlessness
 rutty
 rye
 s
+sabbath
 sabbatical
 saber
 saber-rattling
@@ -31049,6 +31055,7 @@ sachem
 sachet
 sack
 sackcloth
+sacker
 sackful
 sacking
 sacra
@@ -33784,7 +33791,6 @@ spangled
 spaniel
 spank
 spanking
-spanner
 spar
 spare
 sparely
@@ -36106,8 +36112,9 @@ tender
 tenderfeet
 tenderfoot
 tenderhearted
-tenderheartedly
-tenderheartedness
+tender-hearted
+tender-heartedly
+tender-heartedness
 tenderize
 tenderizer
 tenderloin
@@ -37580,7 +37587,6 @@ tunic
 tunnel
 tunneler
 tunny
-tuque
 turban
 turbid
 turbidity
@@ -37768,7 +37774,6 @@ tyrannosaurus
 tyrannous
 tyranny
 tyrant
-tyre
 tyro
 tzar
 tzarina
@@ -39121,6 +39126,7 @@ uplift
 uplifting
 upload
 upmarket
+upmost
 upon
 upper
 uppercase
@@ -39128,7 +39134,6 @@ upper-class
 upperclassman
 uppercut
 uppermost
-uppish
 uppity
 upraise
 upraised
@@ -40428,7 +40433,6 @@ whiff
 whiffletree
 while
 whilom
-whilst
 whim
 whimper
 whimsey
