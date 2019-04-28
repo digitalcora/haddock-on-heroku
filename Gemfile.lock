@@ -3,16 +3,16 @@ GEM
   specs:
     haddock (0.2.2)
     mustermann (1.0.3)
-    rack (2.0.6)
-    rack-protection (2.0.4)
+    rack (2.0.7)
+    rack-protection (2.0.5)
       rack
     rack-ssl-enforcer (0.2.9)
-    sinatra (2.0.4)
+    sinatra (2.0.5)
       mustermann (~> 1.0)
       rack (~> 2.0)
-      rack-protection (= 2.0.4)
+      rack-protection (= 2.0.5)
       tilt (~> 2.0)
-    tilt (2.0.8)
+    tilt (2.0.9)
 
 PLATFORMS
   ruby
@@ -22,8 +22,5 @@ DEPENDENCIES
   rack-ssl-enforcer
   sinatra
 
-RUBY VERSION
-   ruby 2.5.3p105
-
 BUNDLED WITH
-   1.17.1
+   1.17.2
